@@ -1,0 +1,25 @@
+@font-face{
+    font-family: clara;
+    src: url(fontes/Beaming.otf);
+}
+h1{
+    font-family: clara;
+}
+header{
+    background-color: palegoldenrod;
+    height: 10vh;
+}
+.d1{
+    border: 1px solid brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.r1{
+    height: 40vh;
+}
+.card{
+    width: 90%;
+    height: 90%;
+    border: 1px solid black;
+}
